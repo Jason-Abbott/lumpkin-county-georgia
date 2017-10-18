@@ -1,0 +1,1507 @@
+LAYER.Normal {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+TH.Normal {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+TD.Normal {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+INPUT.Normal {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+TD DIV.Normal {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+LAYER.WarmHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,0,0);
+}
+
+TH.WarmHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,0,0);
+}
+
+TD.WarmHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,0,0);
+}
+
+INPUT.WarmHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,0,0);
+}
+
+TD DIV.WarmHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,0,0);
+}
+
+LAYER.WarmHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,0,0);
+}
+
+TH.WarmHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,0,0);
+}
+
+TD.WarmHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,0,0);
+}
+
+INPUT.WarmHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,0,0);
+}
+
+TD DIV.WarmHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,0,0);
+}
+
+LAYER.WarmSubhead {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,0,0);
+}
+
+TH.WarmSubhead {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,0,0);
+}
+
+TD.WarmSubhead {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,0,0);
+}
+
+INPUT.WarmSubhead {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,0,0);
+}
+
+TD DIV.WarmSubhead {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,0,0);
+}
+
+LAYER.WarmBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,0,0);
+}
+
+TH.WarmBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,0,0);
+}
+
+TD.WarmBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,0,0);
+}
+
+INPUT.WarmBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,0,0);
+}
+
+TD DIV.WarmBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,0,0);
+}
+
+LAYER.WarmCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,0,0);
+}
+
+TH.WarmCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,0,0);
+}
+
+TD.WarmCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,0,0);
+}
+
+INPUT.WarmCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,0,0);
+}
+
+TD DIV.WarmCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,0,0);
+}
+
+LAYER.CoolHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24pt;
+color: rgb(128,0,128);
+}
+
+TH.CoolHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24pt;
+color: rgb(128,0,128);
+}
+
+TD.CoolHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24pt;
+color: rgb(128,0,128);
+}
+
+INPUT.CoolHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24pt;
+color: rgb(128,0,128);
+}
+
+TD DIV.CoolHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 24pt;
+color: rgb(128,0,128);
+}
+
+LAYER.CoolHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+TH.CoolHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+TD.CoolHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+INPUT.CoolHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+TD DIV.CoolHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+LAYER.CoolSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,255);
+}
+
+TH.CoolSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,255);
+}
+
+TD.CoolSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,255);
+}
+
+INPUT.CoolSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,255);
+}
+
+TD DIV.CoolSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,255);
+}
+
+LAYER.CoolBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(128,0,128);
+}
+
+TH.CoolBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(128,0,128);
+}
+
+TD.CoolBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(128,0,128);
+}
+
+INPUT.CoolBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(128,0,128);
+}
+
+TD DIV.CoolBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(128,0,128);
+}
+
+LAYER.CoolCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+TH.CoolCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+TD.CoolCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+INPUT.CoolCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+TD DIV.CoolCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+LAYER.ReverseHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+TH.ReverseHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+TD.ReverseHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+INPUT.ReverseHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+TD DIV.ReverseHeading1 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+LAYER.ReverseHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+TH.ReverseHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+TD.ReverseHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+INPUT.ReverseHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+TD DIV.ReverseHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+LAYER.ReverseSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+TH.ReverseSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+TD.ReverseSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+INPUT.ReverseSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+TD DIV.ReverseSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(255,255,0);
+background-color: rgb(0,0,0);
+}
+
+LAYER.ReverseBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+TH.ReverseBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+TD.ReverseBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+INPUT.ReverseBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+TD DIV.ReverseBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(255,255,255);
+background-color: rgb(0,0,0);
+}
+
+LAYER.ReverseCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,255);
+background-color: rgb(0,0,0);
+}
+
+TH.ReverseCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,255);
+background-color: rgb(0,0,0);
+}
+
+TD.ReverseCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,255);
+background-color: rgb(0,0,0);
+}
+
+INPUT.ReverseCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,255);
+background-color: rgb(0,0,0);
+}
+
+TD DIV.ReverseCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,255);
+background-color: rgb(0,0,0);
+}
+
+LAYER.BasicHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,0,0);
+}
+
+TH.BasicHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,0,0);
+}
+
+TD.BasicHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,0,0);
+}
+
+INPUT.BasicHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,0,0);
+}
+
+TD DIV.BasicHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(0,0,0);
+}
+
+LAYER.BasicHeading2 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,128,128);
+}
+
+TH.BasicHeading2 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,128,128);
+}
+
+TD.BasicHeading2 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,128,128);
+}
+
+INPUT.BasicHeading2 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,128,128);
+}
+
+TD DIV.BasicHeading2 {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 18pt;
+color: rgb(128,128,128);
+}
+
+LAYER.BasicSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14pt;
+color: rgb(0,0,0);
+}
+
+TH.BasicSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14pt;
+color: rgb(0,0,0);
+}
+
+TD.BasicSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14pt;
+color: rgb(0,0,0);
+}
+
+INPUT.BasicSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14pt;
+color: rgb(0,0,0);
+}
+
+TD DIV.BasicSubhead {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14pt;
+color: rgb(0,0,0);
+}
+
+LAYER.BasicBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+TH.BasicBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+TD.BasicBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+INPUT.BasicBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+TD DIV.BasicBodyText {
+font-family: Times New Roman, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,0,0);
+}
+
+LAYER.BasicCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,128,128);
+}
+
+TH.BasicCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,128,128);
+}
+
+TD.BasicCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,128,128);
+}
+
+INPUT.BasicCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,128,128);
+}
+
+TD DIV.BasicCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(128,128,128);
+}
+
+LAYER.OceanHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+TH.OceanHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+TD.OceanHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+INPUT.OceanHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+TD DIV.OceanHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,128,128);
+}
+
+LAYER.OceanHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(0,128,0);
+}
+
+TH.OceanHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(0,128,0);
+}
+
+TD.OceanHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(0,128,0);
+}
+
+INPUT.OceanHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(0,128,0);
+}
+
+TD DIV.OceanHeading2 {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 14pt;
+color: rgb(0,128,0);
+}
+
+LAYER.OceanSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,128);
+}
+
+TH.OceanSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,128);
+}
+
+TD.OceanSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,128);
+}
+
+INPUT.OceanSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,128);
+}
+
+TD DIV.OceanSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 12pt;
+color: rgb(0,0,128);
+}
+
+LAYER.OceanBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(0,128,128);
+}
+
+TH.OceanBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(0,128,128);
+}
+
+TD.OceanBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(0,128,128);
+}
+
+INPUT.OceanBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(0,128,128);
+}
+
+TD DIV.OceanBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(0,128,128);
+}
+
+LAYER.OceanCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+TH.OceanCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+TD.OceanCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+INPUT.OceanCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+TD DIV.OceanCaption {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,0,255);
+}
+
+LAYER.BrightHeading1 {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(0,255,255);
+}
+
+TH.BrightHeading1 {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(0,255,255);
+}
+
+TD.BrightHeading1 {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(0,255,255);
+}
+
+INPUT.BrightHeading1 {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(0,255,255);
+}
+
+TD DIV.BrightHeading1 {
+font-family: Arial, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 24pt;
+color: rgb(0,255,255);
+}
+
+LAYER.BrightHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,255,0);
+}
+
+TH.BrightHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,255,0);
+}
+
+TD.BrightHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,255,0);
+}
+
+INPUT.BrightHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,255,0);
+}
+
+TD DIV.BrightHeading2 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18pt;
+color: rgb(0,255,0);
+}
+
+LAYER.BrightSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,255,255);
+}
+
+TH.BrightSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,255,255);
+}
+
+TD.BrightSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,255,255);
+}
+
+INPUT.BrightSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,255,255);
+}
+
+TD DIV.BrightSubhead {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12pt;
+color: rgb(0,255,255);
+}
+
+LAYER.BrightBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(255,255,0);
+}
+
+TH.BrightBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(255,255,0);
+}
+
+TD.BrightBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(255,255,0);
+}
+
+INPUT.BrightBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(255,255,0);
+}
+
+TD DIV.BrightBodyText {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 400;
+font-size: 10pt;
+color: rgb(255,255,0);
+}
+
+LAYER.BrightCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,0);
+}
+
+TH.BrightCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,0);
+}
+
+TD.BrightCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,0);
+}
+
+INPUT.BrightCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,0);
+}
+
+TD DIV.BrightCaption {
+font-family: Times New Roman, serif;
+font-style: italic;
+font-weight: 800;
+font-size: 10pt;
+color: rgb(0,255,0);
+}
+
+LAYER.BookHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 16pt;
+color: rgb(64,0,128);
+}
+
+TH.BookHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 16pt;
+color: rgb(64,0,128);
+}
+
+TD.BookHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 16pt;
+color: rgb(64,0,128);
+}
+
+INPUT.BookHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 16pt;
+color: rgb(64,0,128);
+}
+
+TD DIV.BookHeading1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 800;
+font-size: 16pt;
+color: rgb(64,0,128);
+}
+
+LAYER.DBCUSTOMSTYLE1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,64,128);
+}
+
+TH.DBCUSTOMSTYLE1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,64,128);
+}
+
+TD.DBCUSTOMSTYLE1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,64,128);
+}
+
+INPUT.DBCUSTOMSTYLE1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,64,128);
+}
+
+TD DIV.DBCUSTOMSTYLE1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,64,128);
+}
+
+LAYER.lumpkin1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+TH.lumpkin1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+TD.lumpkin1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+INPUT.lumpkin1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+TD DIV.lumpkin1 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+LAYER.DBCUSTOMSTYLE4 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+TH.DBCUSTOMSTYLE4 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+TD.DBCUSTOMSTYLE4 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+INPUT.DBCUSTOMSTYLE4 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+TD DIV.DBCUSTOMSTYLE4 {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 600;
+font-size: 12pt;
+color: rgb(0,60,60);
+}
+
+LAYER.lumpkinsmall {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 300;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+TH.lumpkinsmall {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 300;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+TD.lumpkinsmall {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 300;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+INPUT.lumpkinsmall {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 300;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+TD DIV.lumpkinsmall {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 300;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+LAYER.lumpkinbold {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 500;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+TH.lumpkinbold {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 500;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+TD.lumpkinbold {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 500;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+INPUT.lumpkinbold {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 500;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+TD DIV.lumpkinbold {
+font-family: Arial, serif;
+font-style: normal;
+font-weight: 500;
+font-size: 10pt;
+color: rgb(0,64,64);
+}
+
+B { font-weight:bold }
+

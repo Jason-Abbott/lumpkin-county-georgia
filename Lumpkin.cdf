@@ -1,0 +1,6 @@
+<CHANNEL HREF = "http://TRAINER11/Home.asp" LASTMOD = "1999-10-21" PRECACHE = "YES" LEVEL = "0" BASE = "">
+
+
+
+
+</CHANNEL>
